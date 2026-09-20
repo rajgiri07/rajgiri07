@@ -1,39 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Raj%20Kumar%20Giri&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Raj%20Kumar%20Giri&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-</div>
-
-<div align="center">
-
-### ☕ Java Developer &nbsp; • &nbsp; 🌐 MERN Stack Developer &nbsp; • &nbsp; 🧠 Problem Solver
+<h3>👋 Hello, I'm Raj Kumar Giri</h3>
 
 <p>
-Building practical applications and continuously improving my skills in 
-<strong>Java, DSA & Full-Stack Development</strong> 🚀
+💻 Computer Science & Engineering Student
+</p>
+
+<p>
+🚀 Building Full-Stack Applications &nbsp; • &nbsp;
+📚 Continuously Learning &nbsp; • &nbsp;
+💡 Building with Java & MERN
+</p>
+
+<p>
+<a href="https://github.com/rajgiri07">
+<img src="https://img.shields.io/badge/GitHub-rajgiri07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:rajg77355@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 </div>
 
 ---
----
+
 # 👨‍💻 About Me
 
-Hello! I'm **Raj Kumar Giri**, a Computer Science & Engineering student passionate about **software development, web development, Java programming, and problem solving**.
+Hello! I'm **Raj Kumar Giri**, a Computer Science & Engineering student passionate about **Java, Full-Stack Development, and Problem Solving**.
 
-I'm currently pursuing my **B.Tech in Computer Science Engineering (2023–2027)** and continuously working on practical projects to strengthen my development and computer science fundamentals.
+I'm currently pursuing my **B.Tech in Computer Science Engineering (2023–2027)** and building practical projects to strengthen my development and computer science skills.
 
-- 🎓 B.Tech in **Computer Science Engineering**
-- 📅 Graduation: **2027**
-- ☕ Strong interest in **Java Development**
-- 🌐 Building applications using the **MERN Stack**
-- ⚛️ Developing frontend applications with **React.js**
+- 🎓 Pursuing **B.Tech in Computer Science Engineering**
+- ☕ Developing applications with **Java**
+- 🌐 Building full-stack applications using the **MERN Stack**
+- ⚛️ Working with **React.js** for frontend development
 - 🟢 Building backend applications using **Node.js & Express.js**
 - 🗄️ Working with **MongoDB and SQL**
-- 🔐 Learning **JWT Authentication & Authorization**
+- 🔐 Implementing **JWT Authentication & Role-Based Access Control**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🔧 Using **Git & GitHub** for version control
-- 🚀 Focused on becoming a better **Full-Stack Developer**
+- 🚀 Continuously learning and building real-world projects
 
 ---
 
@@ -65,7 +75,7 @@ I'm currently pursuing my **B.Tech in Computer Science Engineering (2023–2027)
 
 ### 🌐 MERN Stack | Full-Stack Web Application
 
-A full-stack learning platform that helps students **connect with each other, share study resources, and access educational materials**.
+A full-stack learning platform that helps students **connect, share study resources, and access educational materials**.
 
 ### ✨ Key Features
 
@@ -73,31 +83,16 @@ A full-stack learning platform that helps students **connect with each other, sh
   Helps students connect and collaborate for learning and knowledge sharing.
 
 - 📚 **Study Resource Sharing**  
-  Allows users to share and access useful study materials.
-
-- 📄 **Notes & PDF Management**  
-  Supports managing and accessing educational notes and PDF files.
+  Allows users to share and access useful notes, PDFs, and learning materials.
 
 - 🔎 **Search & Filtering**  
   Helps users quickly find relevant learning resources.
 
-- 🏷️ **Resource Categorization**  
-  Organizes learning materials into categories for easier access.
+- 🔐 **JWT Authentication & Role-Based Access**  
+  Secures user accounts and controls access based on user roles.
 
-- 👤 **User Profiles**  
-  Allows students to maintain and manage their profiles.
-
-- 🔐 **JWT Authentication**  
-  Provides secure user login and protected application access.
-
-- 🛡️ **Role-Based Access Control**  
-  Provides different access permissions according to user roles.
-
-- 🔗 **RESTful APIs**  
-  Handles communication between the frontend, backend, and database.
-
-- 📁 **File Management**  
-  Supports uploading and managing learning materials.
+- 🔗 **RESTful APIs & File Management**  
+  Handles backend communication and management of learning materials.
 
 ### 🧰 Tech Stack
 
@@ -109,48 +104,24 @@ A full-stack learning platform that helps students **connect with each other, sh
 
 ### 🌐 MERN Stack | Full-Stack Web Application
 
-A full-stack platform that allows users to **buy, sell, exchange, and donate digital coupons**.
+A platform that allows users to **buy, sell, exchange, and donate digital coupons**.
 
 ### ✨ Key Features
 
 - 🛒 **Coupon Buying & Selling**  
   Allows users to list coupons and participate in buying and selling.
 
-- 🔄 **Coupon Exchange**  
-  Enables users to exchange available coupons with other users.
+- 🔄 **Coupon Exchange & Donation**  
+  Enables users to exchange or donate unused digital coupons.
 
-- 🎁 **Coupon Donation**  
-  Allows users to donate unused coupons to others.
+- 🔎 **Search, Filtering & Categorization**  
+  Helps users easily discover coupons based on relevant categories and criteria.
 
-- 🔎 **Coupon Search**  
-  Helps users quickly find available coupons.
+- ⏰ **Expiry Tracking & Wishlist**  
+  Tracks coupon expiry dates and allows users to save coupons for later.
 
-- 🔍 **Coupon Filtering**  
-  Allows users to filter coupons based on relevant criteria.
-
-- 🏷️ **Coupon Categorization**  
-  Organizes coupons into categories for easier discovery.
-
-- ⏰ **Expiry-Date Tracking**  
-  Tracks coupon expiry dates to help manage coupons before expiration.
-
-- ❤️ **Wishlist Management**  
-  Allows users to save coupons for future reference.
-
-- 👤 **User Profiles**  
-  Provides profiles for managing user information and activities.
-
-- 🔐 **JWT Authentication**  
-  Secures user registration, login, and protected features.
-
-- 🛡️ **Role-Based Access Control**  
-  Controls access to different features based on user roles.
-
-- 📜 **Transaction History**  
-  Keeps records of coupon-related transactions.
-
-- 📊 **User Activity Tracking**  
-  Tracks relevant activities performed by users.
+- 🔐 **Authentication & Transaction Management**  
+  Secures user accounts and maintains coupon-related transaction records.
 
 ### 🧰 Tech Stack
 
@@ -206,7 +177,7 @@ A full-stack platform that allows users to **buy, sell, exchange, and donate dig
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
