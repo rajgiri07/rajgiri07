@@ -1,11 +1,15 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Raj%20Kumar%20Giri&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer&descAlignY=62&descSize=21" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Raj%20Kumar%20Giri&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer&descAlignY=62&descSize=21" width="100%"/>
 
-<h3>💻 Software Engineer &nbsp; | &nbsp; 🌐 MERN Stack Developer</h3>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Software+Engineer;MERN+Stack+Developer;Full-Stack+Web+Developer;Building+Modern+Web+Applications" />
+
+<br>
 
 <p>
-🚀 Building scalable web applications with modern technologies
+🚀 <b>Building</b> • 💡 <b>Learning</b> • ⚡ <b>Creating</b>
 </p>
 
 </div>
