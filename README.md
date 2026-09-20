@@ -138,40 +138,22 @@ A platform for **buying, selling, exchanging and donating digital coupons**.
 # 💻 Technical Skills
 
 ### 👨‍💻 Programming Languages
+`Java` `JavaScript`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
+### 🌐 Frontend
+`HTML` `CSS` `JavaScript` `React.js`
 
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### ⚙️ Backend
+`Node.js` `Express.js`
 
 ### 🗄️ Database
+`MongoDB` `SQL`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🧠 Core Computer Science
-
+### 🧠 Core Concepts
 `OOPs` `DBMS` `Data Structures & Algorithms`
 
 ### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
----
+`Git` `GitHub`
 
 # 📜 Certifications
 
