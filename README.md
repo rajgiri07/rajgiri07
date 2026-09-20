@@ -1,19 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Raj%20Kumar%20Giri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20%7C%20Java%20%7C%20MERN%20Stack&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Raj%20Kumar%20Giri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=60&descSize=20" width="100%"/>
 
-<h2>💻 Computer Science & Engineering Student</h2>
+<h2>👋 Hello, I'm Raj Kumar Giri</h2>
+
+<h3>
+☕ Java Developer &nbsp; • &nbsp;
+🌐 MERN Stack Developer &nbsp; • &nbsp;
+🧠 Problem Solver
+</h3>
 
 <p>
-  ☕ <b>Java Developer</b>
-  &nbsp; • &nbsp;
-  🌐 <b>MERN Stack Developer</b>
-  &nbsp; • &nbsp;
-  🧠 <b>Problem Solver</b>
+🚀 Building Full-Stack Applications &nbsp; | &nbsp;
+💡 Learning New Technologies &nbsp; | &nbsp;
+📚 Improving DSA
 </p>
 
 <p>
-  Building practical projects • Learning continuously • Growing as a Full-Stack Developer 🚀
+<a href="https://github.com/rajgiri07">
+<img src="https://img.shields.io/badge/GitHub-rajgiri07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:rajg77355@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 </div>
