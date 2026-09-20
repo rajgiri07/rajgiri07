@@ -1,25 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Raj%20Kumar%20Giri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20MERN%20Stack%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Raj%20Kumar%20Giri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20%7C%20Java%20%7C%20MERN%20Stack&descAlignY=62&descSize=18" width="100%"/>
 
-</div>
-
-<div align="center">
-
-## 💻 Computer Science & Engineering Student
-
-**☕ Java Developer** • **🌐 MERN Stack Developer** • **🧠 Problem Solver**
+<h2>💻 Computer Science & Engineering Student</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-3DDC84?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-203A43?style=for-the-badge"/>
+  ☕ <b>Java Developer</b>
+  &nbsp; • &nbsp;
+  🌐 <b>MERN Stack Developer</b>
+  &nbsp; • &nbsp;
+  🧠 <b>Problem Solver</b>
+</p>
+
+<p>
+  Building practical projects • Learning continuously • Growing as a Full-Stack Developer 🚀
 </p>
 
 </div>
 
 ---
-
 # 👨‍💻 About Me
 
 Hello! I'm **Raj Kumar Giri**, a Computer Science & Engineering student passionate about **software development, web development, Java programming, and problem solving**.
