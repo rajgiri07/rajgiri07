@@ -1,41 +1,64 @@
-# 👋 Hi, I'm Raj Kumar Giri
+<div align="center">
 
-<h3 align="center">
-  Java & MERN Stack Developer | Computer Science Engineering Student
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Raj%20Kumar%20Giri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20MERN%20Stack%20%7C%20Full-Stack%20Development&descAlignY=60&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/rajgiri07">
-    <img src="https://img.shields.io/github/followers/rajgiri07?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/rajgiri07">
-    <img src="https://img.shields.io/github/stars/rajgiri07?label=Stars&style=for-the-badge&logo=github">
-  </a>
+</div>
+
+<div align="center">
+
+## 💻 Computer Science & Engineering Student
+
+**☕ Java Developer** • **🌐 MERN Stack Developer** • **🧠 Problem Solver**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-3DDC84?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-203A43?style=for-the-badge"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Science Engineering student at **Oriental Institute of Science and Technology, Bhopal**
-- 💻 Interested in **Java, Full-Stack Development & Problem Solving**
-- 🌐 Building full-stack applications using the **MERN Stack**
-- 🔐 Interested in authentication, REST APIs and database-driven applications
-- 📚 Currently improving my **DSA, Java and Full-Stack Development** skills
-- 🚀 Focused on building practical and real-world projects
-- 🤝 Open to learning, collaboration and development opportunities
+</div>
 
 ---
 
-## 🎓 Education
+# 👨‍💻 About Me
+
+Hello! I'm **Raj Kumar Giri**, a Computer Science & Engineering student passionate about **software development, web development, Java programming, and problem solving**.
+
+I'm currently pursuing my **B.Tech in Computer Science Engineering (2023–2027)** and continuously working on practical projects to strengthen my development and computer science fundamentals.
+
+- 🎓 B.Tech in **Computer Science Engineering**
+- 📅 Graduation: **2027**
+- ☕ Strong interest in **Java Development**
+- 🌐 Building applications using the **MERN Stack**
+- ⚛️ Developing frontend applications with **React.js**
+- 🟢 Building backend applications using **Node.js & Express.js**
+- 🗄️ Working with **MongoDB and SQL**
+- 🔐 Learning **JWT Authentication & Authorization**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🔧 Using **Git & GitHub** for version control
+- 🚀 Focused on becoming a better **Full-Stack Developer**
+
+---
+
+# 🎓 Education
 
 ### 🏫 Oriental Institute of Science and Technology, Bhopal
-**B.Tech – Computer Science Engineering**  
-2023 – 2027 | CGPA: **7.81**
+
+**Bachelor of Technology — Computer Science Engineering**
+
+`2023 – 2027`
+
+**CGPA: 7.81**
+
+---
 
 ### 🏫 Government Polytechnic Darbhanga, Bihar
-**Diploma – Mechanical Engineering**  
-2020 – 2023 | CGPA: **8.49**
+
+**Diploma in Mechanical Engineering**
+
+`2020 – 2023`
+
+**CGPA: 8.49**
 
 ---
 
@@ -43,9 +66,9 @@
 
 ## 🎓 Peer-to-Peer Learning Platform
 
-**MERN Stack | Full-Stack Web Application**
+### 🌐 MERN Stack | Full-Stack Web Application
 
-A platform designed to help students **connect, collaborate, share learning resources and access study materials**.
+A full-stack learning platform that helps students **connect with each other, share study resources, and access educational materials**.
 
 ### ✨ Key Features
 
@@ -53,63 +76,60 @@ A platform designed to help students **connect, collaborate, share learning reso
   Helps students connect and collaborate for learning and knowledge sharing.
 
 - 📚 **Study Resource Sharing**  
-  Users can share and access useful study materials and learning resources.
+  Allows users to share and access useful study materials.
 
 - 📄 **Notes & PDF Management**  
-  Provides functionality to manage and access educational notes and PDF files.
+  Supports managing and accessing educational notes and PDF files.
 
 - 🔎 **Search & Filtering**  
   Helps users quickly find relevant learning resources.
 
+- 🏷️ **Resource Categorization**  
+  Organizes learning materials into categories for easier access.
+
 - 👤 **User Profiles**  
-  Allows students to maintain their personal profiles.
+  Allows students to maintain and manage their profiles.
 
 - 🔐 **JWT Authentication**  
-  Secures registration, login and protected application routes.
+  Provides secure user login and protected application access.
 
 - 🛡️ **Role-Based Access Control**  
-  Controls access to features according to the user's role.
+  Provides different access permissions according to user roles.
 
 - 🔗 **RESTful APIs**  
-  Connects the frontend with backend services and database operations.
+  Handles communication between the frontend, backend, and database.
 
 - 📁 **File Management**  
-  Supports uploading, managing and accessing learning materials.
+  Supports uploading and managing learning materials.
 
 ### 🧰 Tech Stack
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript` `HTML` `CSS`
+`React.js` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `JavaScript`
 
 ---
 
 ## 🎟️ Digital Coupon Exchange & Marketplace
 
-**MERN Stack | Full-Stack Web Application**
+### 🌐 MERN Stack | Full-Stack Web Application
 
-A platform for **buying, selling, exchanging and donating digital coupons**.
+A full-stack platform that allows users to **buy, sell, exchange, and donate digital coupons**.
 
 ### ✨ Key Features
 
 - 🛒 **Coupon Buying & Selling**  
-  Allows users to list coupons and participate in buying and selling activities.
+  Allows users to list coupons and participate in buying and selling.
 
 - 🔄 **Coupon Exchange**  
-  Enables users to exchange available digital coupons with other users.
+  Enables users to exchange available coupons with other users.
 
 - 🎁 **Coupon Donation**  
-  Allows users to donate unused coupons to other users.
-
-- 🔐 **JWT Authentication**  
-  Secures user registration, login and protected functionality.
-
-- 🛡️ **Role-Based Access Control**  
-  Controls functionality according to user roles and permissions.
+  Allows users to donate unused coupons to others.
 
 - 🔎 **Coupon Search**  
-  Allows users to quickly search for available coupons.
+  Helps users quickly find available coupons.
 
 - 🔍 **Coupon Filtering**  
-  Helps users find coupons based on relevant conditions.
+  Allows users to filter coupons based on relevant criteria.
 
 - 🏷️ **Coupon Categorization**  
   Organizes coupons into categories for easier discovery.
@@ -118,95 +138,127 @@ A platform for **buying, selling, exchanging and donating digital coupons**.
   Tracks coupon expiry dates to help manage coupons before expiration.
 
 - ❤️ **Wishlist Management**  
-  Allows users to save interesting coupons for later.
+  Allows users to save coupons for future reference.
 
 - 👤 **User Profiles**  
-  Provides profiles for managing account and coupon activity.
+  Provides profiles for managing user information and activities.
+
+- 🔐 **JWT Authentication**  
+  Secures user registration, login, and protected features.
+
+- 🛡️ **Role-Based Access Control**  
+  Controls access to different features based on user roles.
 
 - 📜 **Transaction History**  
-  Maintains records of coupon-related transactions.
+  Keeps records of coupon-related transactions.
 
 - 📊 **User Activity Tracking**  
-  Tracks relevant user activities for better management.
+  Tracks relevant activities performed by users.
 
 ### 🧰 Tech Stack
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript` `HTML` `CSS`
+`React.js` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `JavaScript`
 
 ---
 
-# 💻 Technical Skills
+# 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
-`Java` `JavaScript`
+## 💻 Programming Languages
 
-### 🌐 Frontend
-`HTML` `CSS` `JavaScript` `React.js`
+<p>
 
-### ⚙️ Backend
-`Node.js` `Express.js`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-### 🗄️ Database
-`MongoDB` `SQL`
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### 🧠 Core Concepts
-`OOPs` `DBMS` `Data Structures & Algorithms`
+</p>
 
-### 🛠️ Tools
-`Git` `GitHub`
+---
+
+## 🌐 Frontend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+---
+
+## 🧠 Computer Science Fundamentals
+
+- 🔹 Object-Oriented Programming
+- 🔹 Data Structures & Algorithms
+- 🔹 Database Management Systems
+- 🔹 SQL
+- 🔹 Problem Solving
+
+---
+
+## 🔧 Development Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
 
 # 📜 Certifications
 
-- 🏆 **Programming in Java – NPTEL**
-- 🏆 **Database Management System (DBMS) – NPTEL**
+- ☕ **Programming in Java — NPTEL**
+- 🗄️ **Database Management System (DBMS) — NPTEL**
 
 ---
 
-# 📚 Currently Learning
-
-- ☕ Advanced Java
-- 🧩 Data Structures & Algorithms
-- ⚛️ Advanced React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🔗 REST API Development
-- 🔐 Authentication & Authorization
-
----
-
-# 🧠 Recently Learned & Applied
-
-- 🔐 JWT Authentication
-- 🛡️ Role-Based Access Control
-- 🔗 RESTful API Development
-- 🗄️ MongoDB Database Integration
-- ⚛️ Reusable React Components
-- 📁 File Management
-- 🔎 Search & Filtering
-- 👤 User Profile Management
-
----
-
-# 🎯 Current Focus
+# 📖 Currently Learning
 
 ```text
 Java
-  ↓
+   ↓
+Object-Oriented Programming
+   ↓
 Data Structures & Algorithms
-  ↓
+   ↓
+JavaScript
+   ↓
 React.js
-  ↓
-Node.js + Express.js
-  ↓
-MongoDB
-  ↓
+   ↓
+Node.js & Express.js
+   ↓
+MongoDB & SQL
+   ↓
 Full-Stack Development
-          │
-          ▼
-   🟢 Node.js + Express
-          │
-          ▼
-    🍃 MongoDB + SQL
-          │
-          ▼
-   🚀 Full-Stack Development
