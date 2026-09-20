@@ -1,217 +1,199 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Raj%20Kumar%20Giri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Java%20%7C%20MERN%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Raj%20Kumar%20Giri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20MERN%20Stack%20%7C%20Computer%20Science%20Student&descAlignY=60&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Java+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Learning+DSA+%26+Building+Projects" />
+
+<br>
+
+<a href="https://github.com/rajgiri07">
+<img src="https://img.shields.io/github/followers/rajgiri07?label=Followers&style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/rajgiri07?tab=repositories">
+<img src="https://img.shields.io/github/stars/rajgiri07?label=Stars&style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
-<div align="center">
+---
 
-### 💻 Computer Science & Engineering Student
-### ☕ Java Developer | 🌐 MERN Stack Developer | 🧠 Problem Solver
+## 👨‍💻 About Me
 
-</div>
+Hi! I'm **Raj Kumar Giri**, a Computer Science & Engineering student passionate about **Java development, full-stack web development, and problem solving**.
+
+I'm currently pursuing my **B.Tech in Computer Science Engineering (2023–2027)** and building practical projects to strengthen my development skills.
+
+<table>
+<tr>
+<td>🎓 Education</td>
+<td>B.Tech CSE — 2023–2027</td>
+</tr>
+<tr>
+<td>☕ Primary Language</td>
+<td>Java</td>
+</tr>
+<tr>
+<td>🌐 Development</td>
+<td>MERN Stack</td>
+</tr>
+<tr>
+<td>🧠 Core</td>
+<td>OOPs • DBMS • DSA</td>
+</tr>
+<tr>
+<td>🗄️ Database</td>
+<td>MongoDB • SQL</td>
+</tr>
+<tr>
+<td>🔧 Tools</td>
+<td>Git • GitHub • Postman</td>
+</tr>
+</table>
 
 ---
 
-# 👨‍💻 About Me
+# 🛠️ Tech Stack
 
-Hello! I'm **Raj Kumar Giri**, a Computer Science & Engineering student passionate about **software development, web development, Java programming, and problem solving**.
+### 💻 Languages
 
-I'm currently pursuing my **B.Tech in Computer Science Engineering (2023–2027)** and continuously working on practical projects to strengthen my development and computer science fundamentals.
+<p>
+<img src="https://skillicons.dev/icons?i=java,js" />
+</p>
 
-- 🎓 B.Tech in **Computer Science Engineering**
-- 📅 Graduation: **2027**
-- ☕ Strong interest in **Java Development**
-- 🌐 Building applications using the **MERN Stack**
-- ⚛️ Developing frontend applications with **React.js**
-- 🟢 Building backend applications using **Node.js & Express.js**
-- 🗄️ Working with **MongoDB and SQL**
-- 🔐 Learning **JWT Authentication & Authorization**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🔧 Using **Git & GitHub** for version control
-- 🚀 Focused on becoming a better **Full-Stack Developer**
+### 🌐 Frontend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-# 🎓 Education
+### ⚙️ Backend
 
-### 🏫 Oriental Institute of Science and Technology, Bhopal
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Bachelor of Technology — Computer Science Engineering**
+### 🗄️ Database
 
-`2023 – 2027`
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-**CGPA: 7.81**
+### 🔧 Tools
 
----
-
-### 🏫 Government Polytechnic Darbhanga, Bihar
-
-**Diploma in Mechanical Engineering**
-
-`2020 – 2023`
-
-**CGPA: 8.49**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎓 Peer-to-Peer Learning Platform
+<table>
+<tr>
 
-### 🌐 Full-Stack Web Application
+<td width="50%" valign="top">
 
-A platform designed to help students **connect, collaborate, share learning resources, and access study materials**.
+<h3>🎓 Peer-to-Peer Learning Platform</h3>
 
-### ✨ Key Features
+<p>
+A full-stack platform designed to help students connect, collaborate and share educational resources.
+</p>
+
+<b>✨ Features</b>
 
 - 👥 Student collaboration
-- 📚 Study resource sharing
+- 📚 Resource sharing
 - 📄 Notes & PDF management
-- 🔎 Search and filtering
-- 👤 User profiles
-- 🔐 JWT-based authentication
-- 🛡️ Role-based access control
-- 🔗 RESTful APIs
+- 🔎 Search & filtering
+- 🔐 JWT authentication
+- 🛡️ Role-based access
+- 🔗 REST APIs
 - 📁 File management
-- 📊 Resource categorization
 
-### 🧰 Tech Stack
+<b>🧰 Stack</b>
 
-`React.js` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `JavaScript`
+`React` `Node.js` `Express` `MongoDB`
 
----
+</td>
 
-## 🎟️ Digital Coupon Exchange & Marketplace
+<td width="50%" valign="top">
 
-### 🌐 Full-Stack Web Application
+<h3>🎟️ Digital Coupon Marketplace</h3>
 
-A platform for **buying, selling, exchanging, and donating digital coupons**.
+<p>
+A full-stack platform for buying, selling, exchanging and donating digital coupons.
+</p>
 
-### ✨ Key Features
+<b>✨ Features</b>
 
-- 🛒 Coupon buying & selling
+- 🛒 Buy & sell coupons
 - 🔄 Coupon exchange
 - 🎁 Coupon donation
 - 🔐 JWT authentication
-- 🛡️ Role-based access control
-- 🔎 Coupon search
-- 🔍 Coupon filtering
-- 🏷️ Coupon categorization
-- ⏰ Expiry-date tracking
-- ❤️ Wishlist management
-- 👤 User profiles
+- 🔎 Search & filtering
+- 🏷️ Categorization
+- ⏰ Expiry tracking
+- ❤️ Wishlist
 - 📜 Transaction history
-- 📊 User activity tracking
 
-### 🧰 Tech Stack
+<b>🧰 Stack</b>
 
-`React.js` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `JavaScript`
+`React` `Node.js` `Express` `MongoDB`
 
----
+</td>
 
-# 🛠️ Technical Skills
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
+</tr>
+</table>
 
 ---
 
-## 🌐 Frontend Development
+# 🧠 Computer Science Fundamentals
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+| 💻 Core Area | 📚 Focus |
+|---|---|
+| ☕ OOPs | Classes, Objects, Inheritance, Polymorphism |
+| 🗄️ DBMS | SQL, Relational Database Concepts |
+| 🧩 DSA | Arrays, Strings, Linked List, Stack, Queue |
+| 🧠 Problem Solving | Algorithms & Logical Thinking |
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
----
-
-## 🧠 Computer Science Fundamentals
-
-- 🔹 Object-Oriented Programming
-- 🔹 Data Structures & Algorithms
-- 🔹 Database Management Systems
-- 🔹 SQL
-- 🔹 Problem Solving
-
----
-
-## 🔧 Development Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
 # 📚 Certifications
 
-- ☕ **Programming in Java — NPTEL**
-- 🗄️ **Database Management System (DBMS) — NPTEL**
+<div align="center">
+
+🏆 **Programming in Java — NPTEL**
+
+🏆 **Database Management System — NPTEL**
+
+</div>
 
 ---
 
 # 📖 Currently Learning
 
 ```text
-Java
-   ↓
-Object-Oriented Programming
-   ↓
-Data Structures & Algorithms
-   ↓
-JavaScript
-   ↓
-React.js
-   ↓
-Node.js & Express.js
-   ↓
-MongoDB & SQL
-   ↓
-Full-Stack Development
+        ☕ Java
+          │
+          ▼
+     🧠 OOP & DSA
+          │
+          ▼
+     🌐 JavaScript
+          │
+          ▼
+      ⚛️ React
+          │
+          ▼
+   🟢 Node.js + Express
+          │
+          ▼
+    🍃 MongoDB + SQL
+          │
+          ▼
+   🚀 Full-Stack Development
